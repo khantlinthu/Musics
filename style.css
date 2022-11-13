@@ -3,3 +3,6 @@ body{
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1{
+    background: red;
+}
